@@ -1,0 +1,23 @@
+{
+    "backend": "django",
+    "db_name": "",
+    "db_pass": "",
+    "db_type": "mysql",
+    "db_user": "",
+    "dbms": "1",
+    "description": "generated product",
+    "design": "volt-dashboard",
+    "docker": "0",
+    "err_code": 0,
+    "frontend": "",
+    "heroku": "1",
+    "pattern": "mvc",
+    "pro": "0",
+    "task_id": "0258d389-a48c-4ec0-91fa-cbf1e8552056",
+    "task_info": "Upload Sources [0%] - 487 files",
+    "task_output": "0258d389-a48c-4ec0-91fa-cbf1e8552056.zip",
+    "task_result": "SUCCESS",
+    "task_state": "RUNNING",
+    "task_ts_end": "2022-08-23-11-23-16",
+    "task_ts_start": "2022-08-23-11-23-14"
+}
